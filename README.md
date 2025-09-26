@@ -2,17 +2,7 @@
 
 A modern, responsive website dedicated to promoting healthy lifestyles through nutrition, fitness, and wellness resources.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Website Structure](#website-structure)
-- [Technology Stack](#technology-stack)
-- [File Structure](#file-structure)
-- [Setup Instructions](#setup-instructions)
-- [Customization Guide](#customization-guide)
-- [Browser Compatibility](#browser-compatibility)
-- [License](#license)
-- [Contact](#contact)
+github_link: https://github.com/gradi017/MyHealthyWebsite/tree/main
 
 ## Project Overview
 
