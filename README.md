@@ -61,3 +61,11 @@ HealthyLife is a comprehensive health and wellness website designed to help indi
 - **Responsive Framework**: Custom CSS Grid and Flexbox
 - **No External Dependencies** (besides Font Awesome CDN)
 
+  ##Content Updates
+Text Content: Edit directly in HTML files
+  
+##Adding New Pages
+Create corresponding CSS file in /CSS/ directory
+Update navigation in all HTML files
+Link the CSS in your new HTML file's <head>
+
